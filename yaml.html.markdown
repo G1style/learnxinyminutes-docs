@@ -1,10 +1,10 @@
----
+---learnxinyminutes-docs-GRH
 language: yaml
 filename: learnyaml.yaml
 contributors:
 
 - [Leigh Brenecki, 'https://leigh.net.au']
-- [Suhas SG, 'https://github.com/jargnar']
+- [Gyunay Halmi GRH, 'https://github.com/jargnar']
 
 ---
 
